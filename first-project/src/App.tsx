@@ -33,7 +33,7 @@ function App() {
           Add Object
       </button>
     </>
-  )
+  )  
 }
 
 export default App
